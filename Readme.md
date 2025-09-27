@@ -71,8 +71,7 @@ Many patients in remote regions face life-threatening delays due to lack of near
 
 ## 👩‍💻 Author
 
-**Maheswaran Kasi**  
-Skills Network Capstone Project
+**Maheswaran Kasi** 
 
 ---
 
